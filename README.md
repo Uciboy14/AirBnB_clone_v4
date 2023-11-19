@@ -69,23 +69,23 @@ No known bugs at this time.
 
 ###### Version 4
 
-- Emezi Uchechi David - [Github](https://github.com/uciboy14) / [Twitter](https://twitter.com/alexa_orrico)  
-- Emezi Uchechi David - [Github](https://github.com/thomaspwang) / [Twitter](https://twitter.com/thpwang)
+- Emezi Uchechi David - [Github](https://github.com/uciboy14) / [Twitter](https://twitter.com/uc_codes)  
+- Emezi Uchechi David - [Github](https://github.com/uciboy14) / [Twitter](https://twitter.com/uc_codes)
 
 ###### Version 3
 
-- Emezi Uchechi David - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-- Emezi Uchechi David - [Github](https://github.com/feliciahsieh) / [Twitter](https://twitter.com/feliciahsiehsw)
+- Emezi Uchechi David - [Github](https://github.com/uciboy14) / [Twitter](https://twitter.com/uc_codes)  
+- Emezi Uchechi David - [Github](https://github.com/uciboy14) / [Twitter](https://twitter.com/uc_codes)
 
 ###### Version 2
 
-- Emezi Uchechi David- [Github](https://github.com/birnbera) / [Twitter](https://twitter.com/birnbera)
-- Emezi Uchechi David - [Github](https://github.com/thomaspwang) / [Twitter](https://twitter.com/thpwang)
+- Emezi Uchechi David- [Github](https://github.com/uciboy14) / [Twitter](https://twitter.com/uc_codes)
+- Emezi Uchechi David - [Github](https://github.com/uciboy14) / [Twitter](https://twitter.com/uc_codes)
 
 ###### Version 1
 
-- Emezi Uchechi David - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-- Emezi Uchechi David - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+- Emezi Uchechi David - [Github](https://github.com/uciboy14) / [Twitter](https://twitter.com/uc_codes)  
+- Emezi Uchechi David - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/uc_codes)
 
 ## License
 Public Domain. No copywrite protection.
